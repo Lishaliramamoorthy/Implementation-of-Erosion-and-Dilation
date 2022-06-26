@@ -1,4 +1,6 @@
-# Implementation-of-Erosion-and-Dilation
+## EX NO:10
+## DATE:25.5.22
+# <p align="center">Implementation-of-Erosion-and-Dilation
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
@@ -23,6 +25,8 @@ End Program.
 ## Program:
 
 ``` Python
+ Developed by:Lishali.R
+ Register No:212220230028
 # Import the necessary packages
 import cv2
 import numpy as np
